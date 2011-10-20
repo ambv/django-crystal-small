@@ -24,7 +24,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as ld_file:
 
 setup (
     name = 'django-crystal-small',
-    version = '2011.2.13',
+    version = '2011.10.20',
     author = 'Everaldo Coehlo, Lukasz Langa',
     author_email = 'contact@everaldo.com, lukasz@langa.pl',
     description = "Everaldo's Crystal icons (small sizes) bundled for direct "
